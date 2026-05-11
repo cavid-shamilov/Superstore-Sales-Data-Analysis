@@ -1,4 +1,5 @@
 #  Superstore Sales Analysis
+![Global_Sales](Global_Sales_Performance&Strategic_Dashboard(2015-2018).png)
 
 ##  Project Overview
 
@@ -59,7 +60,7 @@ The business generated approximately **$2.26M** in total revenue between 2015–
 
 ### Visualization
 
-![Annual Sales Growth](images/annual_growth.png)
+![Annual Sales Growth](Annual_Sales_Growth.png)
 
 ---
 
@@ -77,7 +78,7 @@ This indicates heavy dependence on end-of-year demand and holiday-driven sales.
 
 ### Visualization
 
-![Seasonality Analysis](images/seasonality_analysis.png)
+![Seasonality Analysis](Seasonality_Analysis.png)
 
 ---
 
@@ -97,7 +98,7 @@ Improving Q1 and Q2 performance could reduce dependency on year-end sales peaks.
 
 ### Visualization
 
-![Sales Volatility](images/sales_volatility.png)
+![Sales Volatility](Sales_Volatility.png)
 
 ---
 
@@ -115,7 +116,7 @@ The business is strongly consumer-oriented, while the corporate segment presents
 
 ### Visualization
 
-![Customer Segments](images/customer_segments.png)
+![Customer Segments](Customer_Segments.png)
 
 ---
 
@@ -133,7 +134,7 @@ Technology products drive high-value sales, while office supplies may support re
 
 ### Visualization
 
-![Category Analysis](images/category_analysis.png)
+![Category Analysis](Category_Analysis.png)
 
 ---
 
@@ -147,14 +148,6 @@ This analysis demonstrates that the company is experiencing:
 - Strong B2C market positioning
 
 The project highlights how data analytics can transform transactional data into strategic business insights for forecasting, marketing, and operational planning.
-
----
-
-
-##  Project Files
-
-- `Superstore_Sales_Analysis.ipynb` → Full analysis notebook
-- `README.md` → Project documentation
 
 ---
 
