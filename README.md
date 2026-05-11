@@ -150,16 +150,6 @@ The project highlights how data analytics can transform transactional data into 
 
 ---
 
-##  Future Improvements
-
-Possible future extensions of this project:
-
-- Sales forecasting with Machine Learning
-- Customer segmentation using clustering
-- Regional profitability analysis
-- Interactive dashboard development with Power BI or Tableau
-
----
 
 ##  Project Files
 
