@@ -172,5 +172,5 @@ Possible future extensions of this project:
 
 ### Cavid Şamilov
 
-- LinkedIn: [Your LinkedIn](https://www.linkedin.com/in/cavid-shamilov/)
+- LinkedIn: [My LinkedIn](https://www.linkedin.com/in/cavid-shamilov/)
 
