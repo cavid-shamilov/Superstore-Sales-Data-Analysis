@@ -19,7 +19,7 @@ The analysis was conducted entirely in Python using data analysis and visualizat
 
 ---
 
-## 🛠️ Tools & Technologies
+##  Tools & Technologies
 
 - Python
 - Pandas
@@ -33,7 +33,7 @@ The analysis was conducted entirely in Python using data analysis and visualizat
 ##  Dataset
 
 Dataset Source:  
-[Kaggle Superstore Dataset]()
+[Kaggle Superstore Dataset](https://www.kaggle.com/datasets/rohitsahoo/sales-forecasting)
 
 The dataset contains transactional sales records including:
 
@@ -45,9 +45,9 @@ The dataset contains transactional sales records including:
 
 ---
 
-# 📈 Key Business Insights
+#  Key Business Insights
 
-## 1️⃣ Revenue Growth Analysis
+## 1️. Revenue Growth Analysis
 
 The business generated approximately **$2.26M** in total revenue between 2015–2018.
 
@@ -63,7 +63,7 @@ The business generated approximately **$2.26M** in total revenue between 2015–
 
 ---
 
-## 2️⃣ Seasonality Analysis
+## 2️. Seasonality Analysis
 
 The business shows strong seasonal sales behavior.
 
@@ -81,7 +81,7 @@ This indicates heavy dependence on end-of-year demand and holiday-driven sales.
 
 ---
 
-## 3️⃣ Sales Stability & Risk Analysis
+## 3️. Sales Stability & Risk Analysis
 
 Sales performance exhibits high volatility with a coefficient of variation (CV) of **48.15%**.
 
@@ -101,7 +101,7 @@ Improving Q1 and Q2 performance could reduce dependency on year-end sales peaks.
 
 ---
 
-## 4️⃣ Customer Segment Analysis
+## 4️. Customer Segment Analysis
 
 ### Revenue Contribution by Segment
 
@@ -119,7 +119,7 @@ The business is strongly consumer-oriented, while the corporate segment presents
 
 ---
 
-## 5️⃣ Product Category Analysis
+## 5️. Product Category Analysis
 
 ### Revenue by Category
 
@@ -137,7 +137,7 @@ Technology products drive high-value sales, while office supplies may support re
 
 ---
 
-# 📊 Business Conclusion
+#  Business Conclusion
 
 This analysis demonstrates that the company is experiencing:
 
@@ -150,7 +150,7 @@ The project highlights how data analytics can transform transactional data into 
 
 ---
 
-## 🚀 Future Improvements
+##  Future Improvements
 
 Possible future extensions of this project:
 
@@ -161,16 +161,16 @@ Possible future extensions of this project:
 
 ---
 
-## 📎 Project Files
+##  Project Files
 
 - `Superstore_Sales_Analysis.ipynb` → Full analysis notebook
 - `README.md` → Project documentation
 
 ---
 
-## 👤 Author
+##  Author
 
 ### Cavid Şamilov
 
-- LinkedIn: [Your LinkedIn](https://linkedin.com/)
-- GitHub: [Your GitHub](https://github.com/)
+- LinkedIn: [Your LinkedIn](https://www.linkedin.com/in/cavid-shamilov/)
+
